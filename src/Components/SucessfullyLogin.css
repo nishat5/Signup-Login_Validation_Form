@@ -1,0 +1,10 @@
+.swal-wide {
+  width: 85%;
+}
+
+.WelcomeScreen {
+  display: "flex";
+  flex-direction: "column";
+  justify-content: "center";
+  align-content: "center";
+}
